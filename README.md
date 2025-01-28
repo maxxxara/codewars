@@ -1,2 +1,2 @@
 # codewars
-Repository of codewars tasks
+I was 14 y.o :)
